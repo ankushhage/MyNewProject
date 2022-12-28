@@ -1,13 +1,11 @@
 package basic_programs;
 
-//Java code to demonstrate right star triangle
-public class Left_Triangle_Star_Pattern 
+public class Downward_Left_Triangle_Star_Pattern 
 {
-	// Function to demonstrate printing pattern
 	public static void StarRightTriangle(int k)
 	{
 		int a,b;
-		for(a = 0; a < k; a++)
+		for(a = k -1 ; a >= 0; a--)
 		{
 			for(b = 2 * (k-a); b >= 0; b--)
 			{
@@ -20,13 +18,11 @@ public class Left_Triangle_Star_Pattern
 			}
 			System.out.println();
 		}
-	
 	}
-
-	// Driver Function
-	public static void main(String args[])
-	{
-		int k = 7;
-		StarRightTriangle(k);
-	}
+		// Driver Function
+		public static void main(String args[])
+		{
+			int k = 7;
+			StarRightTriangle(k);
+		}
 }
