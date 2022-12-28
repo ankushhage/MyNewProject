@@ -1,4 +1,4 @@
-package basic_programs;
+package pattern_programs;
 public class Star_Pascals_Triangle
 {	
 	public int factorial(int a)

@@ -1,4 +1,4 @@
-package basic_programs;
+package pattern_programs;
 
 //class Mirror_Pyramid_Star_Patterns 
 //{

@@ -1,4 +1,4 @@
-package basic_programs;
+package pattern_programs;
 
 public class Downward_Left_Triangle_Star_Pattern 
 {

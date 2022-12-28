@@ -1,4 +1,4 @@
-package basic_programs;
+package pattern_programs;
 //Java code to demonstrate right star triangle
 public class Downward_Right_Triangle_Star_Pattern 
 {

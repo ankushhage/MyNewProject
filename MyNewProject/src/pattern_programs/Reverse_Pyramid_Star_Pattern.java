@@ -1,4 +1,4 @@
-package basic_programs;
+package pattern_programs;
 
 public class Reverse_Pyramid_Star_Pattern 
 {

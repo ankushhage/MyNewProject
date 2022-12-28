@@ -1,4 +1,4 @@
-package basic_programs;
+package pattern_programs;
 
 //Java program to find the perimeter of a Rectangle
 
